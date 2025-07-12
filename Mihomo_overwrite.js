@@ -182,7 +182,7 @@ const ruleProviders = {
 // 规则
 const rules = [
   // 额外自定义规则       //在此添加你想要的规则
-  "PROCESS-NAME,steam.exe,🐬 自定义直连",
+  //"PROCESS-NAME,steam.exe,🐬 自定义直连",
   "DOMAIN-SUFFIX,immersivetranslate.com,🐳 自定义代理",
   // "DOMAIN-SUFFIX,bing.com,🐳 自定义代理",
   // 自定义规则
